@@ -1,11 +1,15 @@
-# Game Web
+# Game-Web
 Interface web aplicação game
 
-# Tecnologias e Conceitos
+## Tecnologias e Conceitos
+* React e ReactJS
+* Navigation (react-router-dom)
+* Hooks
+* Axios
 
-# Sobre aplicação
+## Sobre aplicação
 
-# Resultado
+## Resultado
 
 #### *Home* ####
 ![](src/assets/screenshot-home.png)

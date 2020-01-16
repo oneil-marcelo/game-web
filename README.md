@@ -9,10 +9,9 @@ Interface web criada com React e ReactJS para consumir a WebAPI Game-API.
 
 ## Sobre aplicação
 
-Basicamente a aplicação busca explorar a nova api Hook do React, o consumo de serviço rest com axios e sistema de rotas.
+A aplicação explora os Hooks (nova api do React para controle de estado nos components), consumo de serviço rest com axios e sistema de rotas.
 
 *[Confira a aplicação](http://lab.yeza.com.br/gameweb/)*
-
 
 ## Resultado
 

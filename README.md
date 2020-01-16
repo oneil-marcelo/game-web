@@ -1,5 +1,5 @@
 # Game-Web
-Interface web aplicação game
+Interface web criada com React e ReactJS para consumir a WebAPI Game-API.
 
 ## Tecnologias e Conceitos
 * React e ReactJS
@@ -8,6 +8,11 @@ Interface web aplicação game
 * Axios
 
 ## Sobre aplicação
+
+Basicamente a aplicação busca explorar a nova api Hook do React, o consumo de serviço rest com axios e sistema de rotas.
+
+*[Confira a aplicação](http://lab.yeza.com.br/gameweb/)*
+
 
 ## Resultado
 
